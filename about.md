@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Software Engineer who loves to cook!
 
-### More Information
+### Résumé
 
-A place to include any other types of information that you'd like to include about yourself.
+ * I work at Redhat, on Candlepin and Subscrition Manager projects as a Senior Software Engineer.
+ * I have a Master's in Computer Science from the University of Texas at Arlington
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[adarshvritant@gmail.com](mailto:adarshvritant@gmail.com)
