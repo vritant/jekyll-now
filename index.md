@@ -1,13 +1,14 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+categories: asd
 ---
+
+### About
 
 I'm a Software Engineer who loves to cook!
  * I am a Rajasthani by lineage who was born in Karnataka. I married a Tamilian, But I am a true Hyderabadi at heart and have lived here for most of my life.
  * After 7 years in the USA, In September of 2016 I moved back to India
- * In July 2017 I married Rinki. checkout my wedding website [here](rinkiweds.vritant.com).
+ * In July 2017 I married Rinki. checkout my wedding website [here](http://rinkiweds.vritant.com).
 
 ### Résumé
 
@@ -18,4 +19,6 @@ I'm a Software Engineer who loves to cook!
 
 ### Contact me
 
-[adarshvritant@gmail.com](mailto:adarshvritant@gmail.com) | +91 897818514 | +1 910VRITANT
+ * [adarshvritant@gmail.com](mailto:adarshvritant@gmail.com)
+ * +91 897818514 
+ * +1 910VRITANT
