@@ -1,10 +1,9 @@
 ---
-layout: page
-title: AAC notice board, PGPPRO 2019
+layout: aacnotice
 permalink: /aac/
 ---
 
-### Useful links
+### Current Useful links
 * PLEASE VOTE: [Poll for Slack Vs Whatsapp Vs Kaizala](https://goo.gl/forms/etOpHL68CZ1CHhYi2)
 * [Google Drive Folder for MM](https://drive.google.com/drive/u/1/folders/1t62DxOwz29JI-ZxDRM4vmW9g_jMTu_B7)
 * [MM online session recording](https://drive.google.com/drive/folders/1c8bgQcd2eM5P920bb5VRI0JZoG3gLtQC)
