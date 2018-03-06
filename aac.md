@@ -26,6 +26,7 @@ permalink: /aac/
     * [Golflogix: Measuing the game of golf](http://lms2.exchange.isb.edu/pluginfile.php/132057/mod_folder/content/0/15%20-%20Golflogix%20Measuring%20the%20Game%20of%20Golf.pdf?forcedownload=1)
   * Group assignments due:
     * [Rohm & Haas(A): New product marketing strategy](http://lms2.exchange.isb.edu/pluginfile.php/132057/mod_folder/content/0/17%20-%20%20Rohm%20%20Haas%20%28A%29%20%20New%20Product%20Marketing%20Strategy.pdf?forcedownload=1)
+  * case questions : [doc1](http://lms2.exchange.isb.edu/mod/resource/view.php?id=53377), [doc2](http://lms2.exchange.isb.edu/mod/resource/view.php?id=53467)
 * 18th March: Managerial Economics Final exam
 * 6th May:
   * Final exam for course 5 and 6 ( typically 2 hours each )
