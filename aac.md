@@ -13,7 +13,7 @@ permalink: /aac/
 * No final exam for MM, only case submissions
 * for MM, You can start working on your assignments before 10th also provided, you go through all the pre reads and material thoroughly since you will have to use those concepts in your submissions.
 * online sessions this term will not be evaluated for class participation
-* Maximum notice of two weeks for online sessions ( no minimum notice period set yet )
+* Minimum notice of two weeks for online sessions and recieving grades
 
 ### Upcoming term important dates
 * 26th Feb: ME assignment 2 due
