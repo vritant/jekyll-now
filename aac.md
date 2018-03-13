@@ -21,6 +21,12 @@ permalink: /aac/
     * [Ronald Coase, economist](https://www.economist.com/news/finance-and-economics/21584966-ronald-coase-economist-who-explained-why-firms-exist-died-september-2nd)
     * [the Theory of the Firm, and Organizations](http://lms2.exchange.isb.edu/pluginfile.php/133404/mod_resource/content/1/2646896.pdf)
 * 30th March 8:00 pm to 10:00 PM: Corporate Finance 2nd Online Webex session
+* April 6th 8:00 pm to 10:00 pm: Managerial Accounting and decision making 1st online webex
+* April 7th 8:00 pm to 10:00 pm: Managerial Accounting and decision making 2nd online webex
+* April 14: Corporate Finance term day 1
+* April 15: Corporate Finance term day 2
+* April 28th Managerial Accounting and decision making term day 1
+* April 29th Managerial Accounting and decision making term day 2
 * 6th May:
   * Final exam for course 5 and 6 ( typically 2 hours each )
   * After exams, Tarun's Games of Incomplete Information ( 4 hours )
