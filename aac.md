@@ -11,10 +11,6 @@ permalink: /aac/
 * Minimum notice of two weeks for online sessions and recieving grades
 
 ### Upcoming term important dates
-* 23/03 8-10 PM: CF 1st Online session
-  * Readings:
-    * [Ronald Coase, economist](https://www.economist.com/news/finance-and-economics/21584966-ronald-coase-economist-who-explained-why-firms-exist-died-september-2nd)
-    * [the Theory of the Firm, and Organizations](http://lms2.exchange.isb.edu/mod/resource/view.php?id=54542)
 * 30/03 8-10 PM: CF 2nd Online Webex session
 * 07/04 8-10 pm: MADM 1st online session
 * 08/04 8-10 pm: MADM 2nd online session
