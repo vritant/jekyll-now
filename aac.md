@@ -3,9 +3,9 @@ layout: aacnotice
 permalink: /aac/
 ---
 
-# Current Useful links
+# Useful links
 * [All Course work google drive folders](https://drive.google.com/drive/u/1/folders/1mYYYbyB3R1y9sBMQAwEXjPEb63WUc4CH)
- * [CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
+* [CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
 
 # Updates from TAs/Program Office:
 * We have the same study group for both courses in a term
