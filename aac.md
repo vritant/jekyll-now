@@ -4,7 +4,7 @@ permalink: /aac/
 ---
 
 ### Current Useful links
-[CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
+ * [CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
 
 ### Already clarified information from TAs/Program office:
 * We have the same study group for both courses in a term
