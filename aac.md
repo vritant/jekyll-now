@@ -4,14 +4,13 @@ permalink: /aac/
 ---
 
 ### Current Useful links
-* [Google Drive Folder for MM](https://drive.google.com/drive/u/1/folders/1t62DxOwz29JI-ZxDRM4vmW9g_jMTu_B7)
+[CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
 
 ### Already clarified information from TAs/Program office:
 * We have the same study group for both courses in a term
 * Minimum notice of two weeks for online sessions and recieving grades
 
 ### Upcoming term important dates
-* 30/03 8-10 PM: CF 2nd Online Webex session
 * 07/04 8-10 pm: MADM 1st online session
 * 08/04 8-10 pm: MADM 2nd online session
 * 14/04:
