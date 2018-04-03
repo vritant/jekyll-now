@@ -12,10 +12,11 @@ permalink: /aac/
 * Minimum notice of two weeks for online sessions and recieving grades
 
 ## Upcoming
+
 #### April 7th, Saturday
 > :computer: 8pm to 10pm: MADM 1st online session
 
-#### April 8th, Sunday
+### April 8th, Sunday
 > :computer: 8pm to 10pm: MADM 2nd online session
 
 #### April 14th, Saturday
@@ -28,6 +29,7 @@ permalink: /aac/
 
 #### April 28th, Saturday
 > :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
+
 > * Data Services at Armistead
 
 > :notebook: MADM term day 1
@@ -36,6 +38,7 @@ permalink: /aac/
 > :notebook: MADM term day 2
 
 > :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
+
 > * Del Norte
 
 > :bust_in_silhouette: CF HW 2 (individual) due at EOD
@@ -45,8 +48,7 @@ permalink: /aac/
 
 > :clipboard: 1:00pm to 3:00pm: MADM Final Exam
 
-> :notebook: Tarun's Games of Incomplete Information (4 hours)
-> * After exams, ofcoruse.
+> :notebook: Tarun's Games of Incomplete Information (4 hours), After exams.
 
 #### May 13th, Sunday
 > :busts_in_silhouette: CF HW 3 (group) due at 5pm
