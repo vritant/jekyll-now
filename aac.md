@@ -3,18 +3,15 @@ layout: aacnotice
 permalink: /aac/
 ---
 
-### Current Useful links
-------
+## Current Useful links
 * [All Course work google drive folders](https://drive.google.com/drive/u/1/folders/1mYYYbyB3R1y9sBMQAwEXjPEb63WUc4CH)
  * [CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
 
-### Already clarified information from TAs/Program office:
-------
+## Updates from TAs/Program Office:
 * We have the same study group for both courses in a term
 * Minimum notice of two weeks for online sessions and recieving grades
 
-### Upcoming term important dates
-------
+## Upcoming
 #### April 7th, Saturday
 > :computer: 8pm to 10pm: MADM 1st online session
 
@@ -57,9 +54,7 @@ permalink: /aac/
 > :bust_in_silhouette: CF peer evaluation due
 
 
-#### Legend
-------
-
+## Legend
 :clipboard: Exam
 
 :bust_in_silhouette: Individual Assignment
