@@ -15,7 +15,7 @@ permalink: /aac/
 * 07/04 8-10 pm: MADM 1st online session
 * 08/04 8-10 pm: MADM 2nd online session
 * 14/04:
-  * CF HW 1 (group) due at 8:30 am
+  * [CF HW 1 (group)](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55501) due at 8:30 am
   * CF term day 1
 * 15/04: CF term day 2
 * 28/04:
