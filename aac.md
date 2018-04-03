@@ -16,7 +16,7 @@ permalink: /aac/
 #### April 7th, Saturday
 > :computer: 8pm to 10pm: MADM 1st online session
 
-### April 8th, Sunday
+#### April 8th, Sunday
 > :computer: 8pm to 10pm: MADM 2nd online session
 
 #### April 14th, Saturday
