@@ -22,20 +22,20 @@ permalink: /aac/
 ### April 14th, Saturday
 > :busts_in_silhouette: [CF HW 1 (group)](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55501) due at 8:30am
 
-> :notebook: CF term day 1
+> :school: CF term day 1
 
 ### April 15th, Sunday
-> :notebook: CF term day 2
+> :school: CF term day 2
 
 ### April 28th, Saturday
 > :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
 
 > * Data Services at Armistead
 
-> :notebook: MADM term day 1
+> :school: MADM term day 1
 
 ### April 29th, Sunday
-> :notebook: MADM term day 2
+> :school: MADM term day 2
 
 > :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
 
@@ -48,7 +48,7 @@ permalink: /aac/
 
 > :clipboard: 1:00pm to 3:00pm: MADM Final Exam
 
-> :notebook: Tarun's Games of Incomplete Information (4 hours), After exams.
+> :school: Tarun's Games of Incomplete Information (4 hours), After exams.
 
 ### May 13th, Sunday
 > :busts_in_silhouette: CF HW 3 (group) due at 5pm
@@ -67,4 +67,4 @@ permalink: /aac/
 
 :computer: Online Class
 
-:notebook: Campus Class
+:school: Campus Class
