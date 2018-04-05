@@ -14,46 +14,46 @@ permalink: /aac/
 ----
 
 ### April 7th, Saturday
-> :computer: 8pm to 10pm: MADM 1st online session
+* :computer: 8pm to 10pm: MADM 1st online session
 
 ### April 8th, Sunday
-> :computer: 8pm to 10pm: MADM 2nd online session
+* :computer: 8pm to 10pm: MADM 2nd online session
 
 ### April 14th, Saturday
-> :busts_in_silhouette: [CF HW 1 (group)](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55501) due at 8:30am
+* :busts_in_silhouette: [CF HW 1 (group)](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55501) due at 8:30am
 
-> :school: CF term day 1
+* :school: CF term day 1
 
 ### April 15th, Sunday
-> :school: CF term day 2
+* :school: CF term day 2
 
 ### April 28th, Saturday
-> :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
+* :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
 
-> * Data Services at Armistead
+  * Data Services at Armistead
 
-> :school: MADM term day 1
+* :school: MADM term day 1
 
 ### April 29th, Sunday
-> :school: MADM term day 2
+* :school: MADM term day 2
 
-> :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
+* :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
 
-> * Del Norte
+  * Del Norte
 
-> :bust_in_silhouette: CF HW 2 (individual) due at EOD
+* :bust_in_silhouette: CF HW 2 (individual) due at EOD
 
 ### May 6th, Sunday
-> :clipboard: 9:30am to 11:30am: CF Final Exam
+* :clipboard: 9:30am to 11:30am: CF Final Exam
 
-> :clipboard: 1:00pm to 3:00pm: MADM Final Exam
+* :clipboard: 1:00pm to 3:00pm: MADM Final Exam
 
-> :school: Tarun's Games of Incomplete Information (4 hours), After exams.
+* :school: Tarun's Games of Incomplete Information (4 hours), After exams.
 
 ### May 13th, Sunday
-> :busts_in_silhouette: CF HW 3 (group) due at 5pm
+* :busts_in_silhouette: CF HW 3 (group) due at 5pm
 
-> :bust_in_silhouette: CF peer evaluation due
+* :bust_in_silhouette: CF peer evaluation due
 
 
 ## Legend
