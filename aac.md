@@ -46,8 +46,8 @@ permalink: /aac/
 ## Legend
 
 ----
-:clipboard: Exam
-:bust_in_silhouette: Individual Assignment
-:busts_in_silhouette: Group Assignment
-:computer: Online Class
-:school: Campus Class
+* :clipboard: Exam
+* :bust_in_silhouette: Individual Assignment
+* :busts_in_silhouette: Group Assignment
+* :computer: Online Class
+* :school: Campus Class
