@@ -4,20 +4,12 @@ permalink: /aac/
 ---
 
 ## Useful links
-
 ----
 * [All Course work google drive folders](https://drive.google.com/drive/u/1/folders/1mYYYbyB3R1y9sBMQAwEXjPEb63WUc4CH)
 * [CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
 
 ## Upcoming
-
 ----
-
-### April 7th, Saturday
-* :computer: 8pm to 10pm: MADM 1st online session
-
-### April 8th, Sunday
-* :computer: 8pm to 10pm: MADM 2nd online session
 
 ### April 14th, Saturday
 * :busts_in_silhouette: [CF HW 1 (group)](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55501) due at 8:30am
@@ -57,7 +49,6 @@ permalink: /aac/
 
 
 ## Legend
-
 ----
 :clipboard: Exam
 
