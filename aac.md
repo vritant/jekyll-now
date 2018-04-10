@@ -13,12 +13,6 @@ permalink: /aac/
 
 ----
 
-### April 7th, Saturday
-* :computer: 8pm to 10pm: MADM 1st online session
-
-### April 8th, Sunday
-* :computer: 8pm to 10pm: MADM 2nd online session
-
 ### April 14th, Saturday
 * :busts_in_silhouette: [CF HW 1 (group)](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55501) due at 8:30am
 
@@ -36,7 +30,6 @@ permalink: /aac/
 
 ### April 29th, Sunday
 * :school: MADM term day 2
-
 * :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
 
   * Del Norte
