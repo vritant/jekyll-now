@@ -7,7 +7,9 @@ permalink: /aac/
 
 ----
 * [All Course work google drive folders](https://drive.google.com/drive/u/1/folders/1mYYYbyB3R1y9sBMQAwEXjPEb63WUc4CH)
+* [CF course outline](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55100)
 * [CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
+* [MADM course outline](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55425)
 
 ## Upcoming
 
@@ -24,7 +26,7 @@ permalink: /aac/
 ### April 28th, Saturday
 * :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
 
-  * Data Services at Armistead
+> * Data Services at Armistead: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55598), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55597)
 
 * :school: MADM term day 1
 
@@ -32,7 +34,7 @@ permalink: /aac/
 * :school: MADM term day 2
 * :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
 
-  * Del Norte
+> * Del Norte: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55600), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55599)
 
 * :bust_in_silhouette: CF HW 2 (individual) due at EOD
 
