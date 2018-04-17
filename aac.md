@@ -31,7 +31,7 @@ permalink: /aac/
 ### May 6th, Sunday
 * :clipboard: 9:30am to 11:30am: CF Final Exam
 * :clipboard: 1:00pm to 3:00pm: MADM Final Exam
-* :school: Tarun's Games of Incomplete Information (4 hours), After exams.
+* :school: Tarun's Games of Incomplete Information (2 hours), After exams.
 
 ### May 13th, Sunday
 * :busts_in_silhouette: CF HW 3 (group) due at 5pm
