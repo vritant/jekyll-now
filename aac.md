@@ -23,7 +23,7 @@ permalink: /aac/
 ### April 29th, Sunday
 * :school: MADM term day 2
 * :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
- * Del Norte: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55600), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55599)
+  * Del Norte: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55600), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55599)
 
 ### May 4th, Sunday
 * :bust_in_silhouette: CF HW 2 (individual) due at EOD
