@@ -15,13 +15,6 @@ permalink: /aac/
 
 ----
 
-### April 14th, Saturday
-* :busts_in_silhouette: [CF HW 1 (group)](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55501) due at 8:30am
-* :school: CF term day 1
-
-### April 15th, Sunday
-* :school: CF term day 2
-
 ### April 28th, Saturday
 * :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
   * Data Services at Armistead: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55598), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55597)
@@ -30,7 +23,7 @@ permalink: /aac/
 ### April 29th, Sunday
 * :school: MADM term day 2
 * :busts_in_silhouette: MADM Assignment 2 (group) due at 5pm
-  * Del Norte: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55600), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55599)
+  * Del Norte: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55600), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55599
 * :bust_in_silhouette: CF HW 2 (individual) due at EOD
 
 ### May 6th, Sunday
