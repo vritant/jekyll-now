@@ -17,7 +17,7 @@ permalink: /aac/
 
 ### April 28th, Saturday
 * :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
-  * Data Services at Armistead: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55598), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55597)
+  * Data Services at Armistead: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=56141), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55597)
 * :school: MADM term day 1
 
 ### April 29th, Sunday
