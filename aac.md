@@ -10,6 +10,7 @@ permalink: /aac/
 * [CF course outline](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55100)
 * [CF online recordings](https://drive.google.com/drive/folders/1X7yVbCScdB6gCNLyVEgFAQ7XfKT9nFCn)
 * [MADM course outline](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55425)
+* [MADM online recordings](http://lms2.exchange.isb.edu/mod/url/view.php?id=55736)
 
 ## Upcoming
 
