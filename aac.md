@@ -20,6 +20,7 @@ permalink: /aac/
 * :busts_in_silhouette: MADM Assignment 1 (group) due at 8:30am
   * Data Services at Armistead: [Case](http://lms2.exchange.isb.edu/mod/resource/view.php?id=56141), [Questions](http://lms2.exchange.isb.edu/mod/resource/view.php?id=55597)
 * :school: MADM term day 1
+* :neckbeard: P2P session 1 - Setu Goyal
 
 ### April 29th, Sunday
 * :school: MADM term day 2
@@ -32,11 +33,20 @@ permalink: /aac/
 ### May 6th, Sunday
 * :clipboard: 9:30am to 11:30am: CF Final Exam
 * :clipboard: 1:00pm to 3:00pm: MADM Final Exam
-* :school: Tarun's Games of Incomplete Information (2 hours), After exams.
+* :neckbeard: Tarun's Games of Incomplete Information (2 hours), After exams.
 
 ### May 13th, Sunday
 * :busts_in_silhouette: CF HW 3 (group) due at 5pm
 * :bust_in_silhouette: CF peer evaluation due
+
+### May 19, Saturday
+* :school: MOO term day 1
+
+### May 20, Sunday
+* :school: MOO term day 2
+
+### May 27, Sunday
+* :computer: MOO ONLY online session
 
 
 ## Legend
@@ -47,3 +57,4 @@ permalink: /aac/
 * :busts_in_silhouette: Group Assignment
 * :computer: Online Class
 * :school: Campus Class
+* :neckbeard: Speaker session
