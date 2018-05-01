@@ -31,8 +31,8 @@ permalink: /aac/
 * :busts_in_silhouette: CF HW 3 (group) due at 5pm
 * :bust_in_silhouette: CF peer evaluation due
 
-### TBD
-* :clipboard: MADM Online Final Exam
+### May 14th, Monday
+* :clipboard: before 10:00am: [MADM Online Final Exam](http://lms2.exchange.isb.edu/mod/quiz/view.php?id=56491)
 
 ### May 19, Saturday
 * :school: MOO term day 1
