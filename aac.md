@@ -36,13 +36,13 @@ permalink: /aac/
 * :clipboard: before 10:00am: [MADM Online Final Exam](http://lms2.exchange.isb.edu/mod/quiz/view.php?id=56491)
 
 ### May 19, Saturday
-* :school: MOO term day 1
+* :school: MoO term day 1
 
 ### May 20, Sunday
-* :school: MOO term day 2
+* :school: MoO term day 2
 
 ### May 27, Sunday
-* :computer: MOO ONLY online session
+* :computer: MoO ONLY online session
 
 
 ## Legend
