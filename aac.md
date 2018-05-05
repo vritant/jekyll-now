@@ -16,12 +16,6 @@ permalink: /aac/
 
 ----
 
-### May 2nd, Wednesday
-* :clipboard: 10 pm: MADM quiizzes
-
-### May 4th, Friday
-* :bust_in_silhouette: CF HW 2 (individual) due at EOD
-
 ### May 6th, Sunday
 * :clipboard: 9:30am to 11:30am: CF Final Exam
 * :neckbeard: 11:45am to 12:30pm: P2P session 1 - Setu Goyal
