@@ -16,12 +16,6 @@ permalink: /aac/
 
 ----
 
-### May 6th, Sunday
-* :clipboard: 9:30am to 11:30am: CF Final Exam
-* :neckbeard: 11:45am to 12:30pm: P2P session 1 - Setu Goyal
-* 12:30pm to 1:30pm lunch provided by program office
-* :neckbeard: 1:30pm to 3:30pm: Tarun's Games of Incomplete Information (2 hours)
-
 ### May 13th, Sunday
 * :busts_in_silhouette: CF HW 3 (group) due at 5pm
 * :bust_in_silhouette: CF peer evaluation due
