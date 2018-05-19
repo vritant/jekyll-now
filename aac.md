@@ -13,10 +13,6 @@ permalink: /aac/
 
 ----
 
-### May 19, Saturday
-* :school: MoO term day 1
-* :microphone: 7-8 pm: Sri Charan Lakkaraju
-
 ### May 20, Sunday
 * :school: MoO term day 2
 * :busts_in_silhouette: [MoO Group assignment submission](http://lms2.exchange.isb.edu/mod/assign/view.php?id=57181)
