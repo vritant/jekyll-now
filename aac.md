@@ -13,7 +13,7 @@ permalink: /aac/
 
 ----
 
-### May 21, Monday
+### May 21, Monday, by 7 pm
 * :busts_in_silhouette: [MoO Group assignment submission](http://lms2.exchange.isb.edu/mod/assign/view.php?id=57181)
 
 ### May 27, Sunday
