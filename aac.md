@@ -23,19 +23,19 @@ permalink: /aac/
 * :bust_in_silhouette: [MoO individual journal 1](http://lms2.exchange.isb.edu/mod/assign/view.php?id=57183)
 
 ### June 8, Friday at Midnight
-* :bust_in_silhouette: CS - Cola wars case write up
+* :bust_in_silhouette: CS - Cola wars case write up ( watch online videos for details )
 
 ### June 9, Saturday
-* :bust_in_silhouette: CS Case write up 1  at 8 a.m.
-  * Choose one of : Cola wars, Ducati, Samsung electronics, General Electric Healthcare, or Danaher Corp.
-  * Questions and cases are in the course outline
+* :bust_in_silhouette: CS Case write up 1 at 8 a.m.
+  * Choose one of : Ducati, Samsung electronics, General Electric Healthcare
+  * Questions and cases are in the course pack
 * :school: CS term day 1
 * :bust_in_silhouette: [MoO individual journal 2](http://lms2.exchange.isb.edu/mod/assign/view.php?id=57184)
 
 ### June 10, Sunday
 * :bust_in_silhouette: CS Case write up 2 at 8 a.m.
-  * Choose one of : Amazon, McKinsey & Company
-  * Questions and cases are in the course outline
+  * Choose one of : Danaher Corp, Amazon, McKinsey & Company
+  * Questions and cases are in the course pack
 * :school: CS term day 2
 
 ### June 17, Sunday 9:30 am
