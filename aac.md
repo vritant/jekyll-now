@@ -7,39 +7,40 @@ permalink: /aac/
 
 ----
 * [All Course work google drive folders](https://drive.google.com/drive/u/1/folders/1mYYYbyB3R1y9sBMQAwEXjPEb63WUc4CH)
-* Note: Competitive Strategy will not have an online session. it will only have a recorded video , to be shared on LMS shortly
+* Note: Competitive Strategy will not have an online session. it will only have recorded videos, already shared on LMS
 
 ## Upcoming
 
 ----
 
-### May 21, Monday, by 7 pm
-* :busts_in_silhouette: [MoO Group assignment submission](http://lms2.exchange.isb.edu/mod/assign/view.php?id=57181)
-
 ### May 27, Sunday
-* :computer: MoO ONLY online session
+* :computer: :microphone: 6:00 pm to 6:45 pm: online p2p Speaker Session by Anand Gona
+* :computer: 7:00 pm to 9:00 pm : MoO online session
 
 ### June 2, Saturday
 * :bust_in_silhouette: [MoO individual journal 1](http://lms2.exchange.isb.edu/mod/assign/view.php?id=57183)
 
-### June 8, Friday at Midnight
+### June 8, Friday before 11:55 pm
 * :bust_in_silhouette: CS - Cola wars case write up ( watch online videos for details )
+* :bust_in_silhouette: CS - discussion board entry #1 on LMS, please look in LMS for the discussion topic
+* :clipboard: Online Quiz on LMS. Quiz will open on 6th June.
 
 ### June 9, Saturday
-* :bust_in_silhouette: CS Case write up 1 at 8 a.m.
-  * Choose one of : Ducati, Samsung electronics, General Electric Healthcare
+* :bust_in_silhouette: CS Case write up #1 at 8 a.m, Submission on LMS
+  * Choose one of : Ducati, Samsung electronics or General Electric Healthcare
   * Questions and cases are in the course pack
+* Executive Summary of team project - hard copy submission at 8 a.m.
 * :school: CS term day 1
 * :bust_in_silhouette: [MoO individual journal 2](http://lms2.exchange.isb.edu/mod/assign/view.php?id=57184)
 
 ### June 10, Sunday
-* :bust_in_silhouette: CS Case write up 2 at 8 a.m.
+* :bust_in_silhouette: CS Case write up 2 at 8 a.m, Submission on LMS
   * Choose one of : Danaher Corp, Amazon, McKinsey & Company
   * Questions and cases are in the course pack
 * :school: CS term day 2
 
 ### June 17, Sunday 9:30 am
-* :clipboard: CS exam
+* :clipboard: CS open book exam
 
 ### June 24, Sunday, by 4 pm
 * :busts_in_silhouette: CS group project due
