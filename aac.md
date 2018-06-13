@@ -6,7 +6,6 @@ permalink: /aac/
 ## Useful links
 
 ----
-* [All Course work google drive folders](https://drive.google.com/drive/u/1/folders/1mYYYbyB3R1y9sBMQAwEXjPEb63WUc4CH)
 * Note: Competitive Strategy will not have an online session. it will only have recorded videos, already shared on LMS
 
 ## Upcoming
