@@ -11,11 +11,11 @@ permalink: /aac/
 
 ----
 
-### June 17, Sunday 9:30 am
-* :clipboard: CS open book exam
+### June 30, Satruday 8:30 am
+* :school: Global economics
 
-### June 24, Sunday, by 4 pm
-* :busts_in_silhouette: CS group project due
+### July 1, Sunday, 8:30 am
+* :school: Global economics
 
 ## Legend
 
