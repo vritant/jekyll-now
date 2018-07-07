@@ -20,7 +20,7 @@ permalink: /aac/
 ### July 6, Friday, 8:00 pm
 * :computer: Global economics online session 1
 
-### July 7, Saturday, 8:00 pm
+### July 13, Friday, 8:00 pm
 * :computer: Global economics online session 2
 
 ## Legend
