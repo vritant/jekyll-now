@@ -10,18 +10,8 @@ permalink: /aac/
 ## Upcoming
 
 ----
-
-### June 30, Satruday 8:30 am
-* :school: Global economics
-
-### July 1, Sunday, 8:30 am
-* :school: Global economics
-
-### July 6, Friday, 8:00 pm
-* :computer: Global economics online session 1
-
-### July 13, Friday, 8:00 pm
-* :computer: Global economics online session 2
+### July 16, Monday, 11:55 pm
+* :busts_in_silhouette: Global Economics assignment
 
 ## Legend
 
