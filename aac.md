@@ -10,8 +10,23 @@ permalink: /aac/
 ## Upcoming
 
 ----
-### July 16, Monday, 11:55 pm
-* :busts_in_silhouette: Global Economics assignment
+### July 21, Satruday, 08:00 am
+* :school: OM Day 1
+
+### July 21, Saturday, 06:00 pm
+* :microphone: Kavita S meets the cohort
+
+### July 22, Sunday, 08:00 am
+* :school: OM Day 2
+
+### July 25, Wednesday, EOD
+* :busts_in_silhouette: OM Assignment problem sets
+
+### July 29, Sunday, 9:30 am
+* :clipboard: GE and OM exams
+
+### July 31, Tuesday
+* :bust_in_silhouette: GE Individual Assignment
 
 ## Legend
 
