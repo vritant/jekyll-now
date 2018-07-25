@@ -28,6 +28,9 @@ permalink: /aac/
 ### July 31, Tuesday
 * :bust_in_silhouette: GE Individual Assignment
 
+### August 1, Wednesday
+* :bust_in_silhouette: EBC Essay
+
 ## Legend
 
 ----

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Software Engineer who loves to cook!
+I'm a Software Engineer who loves to cook and home brew!
  * I am a Rajasthani by lineage who was born in Karnataka. I married a Tamilian, But I am a true Hyderabadi at heart and have lived here for most of my life.
  * After 7 years in the USA, In September of 2016 I moved back to India
  * In July 2017 I married Rinki. checkout my wedding website [here](rinkiweds.vritant.com).
