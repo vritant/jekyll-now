@@ -31,7 +31,7 @@ permalink: /aac/
 * :bust_in_silhouette: GE Individual Assignment
 
 ### August 1, Wednesday
-* :bust_in_silhouette: EBC Essay
+* :bust_in_silhouette: EBC Essay on ethical dilemmas
 
 ## Legend
 
