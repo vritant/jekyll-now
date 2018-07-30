@@ -43,9 +43,6 @@ permalink: /aac/
 ### September 9, Sunday
 * :school: Strategic Innovation Management & EBC exam
 
-### August 8, Wednesday
-* :bust_in_silhouette: EBC Essay on ethical dilemmas
-
 ## Legend
 
 ----
