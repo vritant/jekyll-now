@@ -18,6 +18,7 @@ permalink: /aac/
 
 ### August 11, Saturday
 * :school: EBC Day 1
+* :microphone: meet CAS
 
 ### August 12, Sunday
 * :school: EBC Day 2
