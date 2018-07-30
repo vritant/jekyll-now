@@ -37,13 +37,13 @@ permalink: /aac/
 * :busts_in_silhouette: EBC assignment
 
 ### September 1, Saturday
-* :school: Strategic Innovation Management
+* :school: Strategic Innovation Management Day 1
 
 ### September 2, Sunday
-* :school: Strategic Innovation Management
+* :school: Strategic Innovation Management Day 2
 
 ### September 9, Sunday
-* :school: Strategic Innovation Management & EBC exam
+* :clipboard: Strategic Innovation Management & EBC exam
 
 ## Legend
 
