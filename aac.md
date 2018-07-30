@@ -28,8 +28,11 @@ permalink: /aac/
 ### August 22, Wednesday
 * :computer: EBC online session 2
 
+### August 25, Saturday
+* :microphone: L&D Day 1 ( tentative )
+
 ### August 26, Sunday
-* :busts_in_silhouette: EBC assignment
+* :microphone: L&D Day 2 ( tentative )
 
 ### September 1, Saturday
 * :school: Strategic Innovation Management
