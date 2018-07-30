@@ -34,6 +34,7 @@ permalink: /aac/
 
 ### August 26, Sunday
 * :microphone: L&D Day 2 ( tentative )
+* :busts_in_silhouette: EBC assignment
 
 ### September 1, Saturday
 * :school: Strategic Innovation Management
