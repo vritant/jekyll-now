@@ -10,8 +10,8 @@ permalink: /aac/
 ## Upcoming
 
 ----
-### July 31, Tuesday
-* :bust_in_silhouette: GE Individual Assignment
+
+
 
 ### August 8, Wednesday
 * :bust_in_silhouette: EBC Essay on ethical dilemmas
