@@ -13,12 +13,7 @@ permalink: /aac/
 
 
 
-### August 8, Wednesday
-* :bust_in_silhouette: EBC Essay on ethical dilemmas
 
-### August 11, Saturday
-* :school: EBC Day 1
-* :microphone: meet CAS
 
 ### August 12, Sunday
 * :school: EBC Day 2
@@ -29,11 +24,11 @@ permalink: /aac/
 ### August 22, Wednesday
 * :computer: EBC online session 2
 
-### August 25, Saturday
-* :microphone: L&D Day 1 ( tentative )
+
+
 
 ### August 26, Sunday
-* :microphone: L&D Day 2 ( tentative )
+
 * :busts_in_silhouette: EBC assignment
 
 ### September 1, Saturday
