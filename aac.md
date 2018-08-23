@@ -26,10 +26,12 @@ permalink: /aac/
   * This could be day 1 or day 2, on one of the cases
 
 ### September 2, Sunday
+* :school: SIM Day 2
+
+### September 5, Wednesday
 * :bust_in_silhouette: SIM Reflection Note
   * 600 words, single spaced, times roman, 12 point
   * response to any two cases in the course
-* :school: SIM Day 2
 
 ### September 9, Sunday
 * :clipboard: Strategic Innovation Management
