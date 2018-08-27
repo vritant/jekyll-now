@@ -11,14 +11,14 @@ permalink: /aac/
 
 ----
 
-### August 15, Wednesday
-* :computer: EBC online session 1
 
-### August 22, Wednesday
-* :computer: EBC online session 2
 
-### August 26, Sunday
-* :busts_in_silhouette: EBC assignment
+
+
+
+
+
+
 
 ### September 1, Saturday
 * :school: SIM Day 1
