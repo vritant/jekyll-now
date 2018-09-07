@@ -4,6 +4,7 @@ permalink: /aac/
 ---
 
 ## Useful notes
+* Managing teams will not have a final exam
 
 ----
 
@@ -11,31 +12,21 @@ permalink: /aac/
 
 ----
 
-
-
-
-
-
-
-
-
-
-### September 1, Saturday
-* :school: SIM Day 1
-* :busts_in_silhouette: SIM Group Presentation
-  * This could be day 1 or day 2, on one of the cases
-
-### September 2, Sunday
-* :school: SIM Day 2
-
-### September 5, Wednesday
-* :bust_in_silhouette: SIM Reflection Note
-  * 600 words, single spaced, times roman, 12 point
-  * response to any two cases in the course
-
 ### September 9, Sunday
-* :clipboard: Strategic Innovation Management
+* :clipboard: Strategic Innovation Management, 9:30 am
 * :clipboard: EBC ( online, any one hour of the day )
+
+### September 14, Friday
+* :bust_in_silhouette: by 5 PM - RAP Assignment submission, Managing teams
+
+### September 15, Saturday
+* :school: Managing Teams, Day 1 & quizzes
+
+### September 16, Sunday
+* :school: Managing Teams, Day 2 & quizzes
+
+### September 23, Sunday
+* :bust_in_silhouette: Managing Teams, Application Exercise
 
 ## Legend
 
