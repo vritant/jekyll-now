@@ -12,20 +12,20 @@ permalink: /aac/
 
 ----
 
-### September 9, Sunday
-* :clipboard: Strategic Innovation Management, 9:30 am
-* :clipboard: EBC ( online, any one hour of the day )
 
-### September 14, Friday
-* :bust_in_silhouette: by 5 PM - RAP Assignment submission, Managing teams
 
-### September 15, Saturday
-* :school: Managing Teams, Day 1 & quizzes
 
-### September 16, Sunday
-* :school: Managing Teams, Day 2 & quizzes
 
-### September 23, Sunday
+
+
+
+
+
+
+
+
+
+### September 30, Sunday
 * :bust_in_silhouette: Managing Teams, Application Exercise
 
 ## Legend
