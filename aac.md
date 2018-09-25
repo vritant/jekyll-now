@@ -23,7 +23,7 @@ permalink: /aac/
 * :busts_in_silhouette: LSCM Biopharma inc case
 
 ### October 21, Sunday 8 am
-* :busts_in_silhouette: LSCM Grocery Gateway Case
+* :clipboard: LSCM exam
 
 ## Legend
 
