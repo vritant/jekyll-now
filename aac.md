@@ -12,18 +12,26 @@ permalink: /aac/
 
 ----
 
-### September 30, Sunday
-* :bust_in_silhouette: Managing Teams, Application Exercise
 
-### October 6, Saturday 8 am
-* :busts_in_silhouette: LSCM Grocery Gateway Case
 
-### October 7, Sunday 8 am
-* :busts_in_silhouette: LSCM Barilla spa Case
-* :busts_in_silhouette: LSCM Biopharma inc case
+
+
+
+
+
+
+
+
 
 ### October 21, Sunday 8 am
 * :clipboard: LSCM exam
+
+### October 27, Saturday
+* :school: MR Day1
+
+### October 28, Sunday
+* :school: MR Day2
+
 
 ## Legend
 
