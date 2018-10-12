@@ -27,6 +27,7 @@ permalink: /aac/
 
 ### October 27, Saturday
 * :school: MR Day1
+* :bust_in_silhouette: MR, Ford case, 8 am
 
 ### October 28, Sunday
 * :school: MR Day2
