@@ -28,6 +28,8 @@ permalink: /aac/
 ### October 27, Saturday
 * :school: MR Day1
 * :bust_in_silhouette: MR, Ford case, 8 am
+  * No cap on number of pages. Font needs to be 11pt and 1.5 spaced.
+Reports need be submitted in PDF form. Please submit excel worksheets as well. The excel sheet needs be cleanly formatted and documented. 
 
 ### October 28, Sunday
 * :school: MR Day2
