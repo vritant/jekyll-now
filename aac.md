@@ -4,7 +4,6 @@ permalink: /aac/
 ---
 
 ## Useful notes
-* Managing teams will not have a final exam
 
 ----
 
