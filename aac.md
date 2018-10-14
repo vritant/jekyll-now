@@ -39,7 +39,7 @@ Reports need be submitted in PDF form. Please submit excel worksheets as well. T
 * :busts_in_silhouette: MR 2nd group assignment
 
 ### November 25, Sunday
-* MR Final exam case submission
+* :clipboard: MR Final exam case submission
 
 
 ## Legend
