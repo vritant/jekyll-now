@@ -32,8 +32,14 @@ Reports need be submitted in PDF form. Please submit excel worksheets as well. T
 * :school: MR Day 1
 
 ### October 28, Sunday
-* :busts_in_silhouette: MR first group assignment 8 am
+* :busts_in_silhouette: MR 1st group assignment 8 am
 * :school: MR Day 2
+
+### November 4, Sunday
+* :busts_in_silhouette: MR 2nd group assignment
+
+### November 25, Sunday
+* MR Final exam case submission
 
 
 ## Legend
