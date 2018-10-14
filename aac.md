@@ -33,6 +33,7 @@ Reports need be submitted in PDF form. Please submit excel worksheets as well. T
 
 ### October 28, Sunday
 * :school: MR Day2
+* :busts_in_silhouette: MR first group assignment.
 
 
 ## Legend
