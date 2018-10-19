@@ -11,7 +11,7 @@ I'm a Software Engineer who loves to cook and home brew!
 
 ### Résumé
 
- * I work at [Redhat](https://www.redhat.com), on [Candlepin](https://github.com/candlepin/candlepin) and [Subscrition Manager](https://github.com/candlepin/subscription-manager) projects as a Senior Software Engineer.
+ * I work at [Redhat](https://www.redhat.com), on [Candlepin](https://github.com/candlepin/candlepin) and [Subscription Manager](https://github.com/candlepin/subscription-manager) projects as a Senior Software Engineer.
  * I worked from our global headquarters at Raleigh, NC for the first 4.5 years, and now continue to work from home.
  * I am also parallely pursuing an Executive MBA from Indian School of Business, Hyderabad.
  * I have a Master's in Computer Science from the University of Texas at Arlington, where I graduated with a 4.0/4.0 CGPA
