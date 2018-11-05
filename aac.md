@@ -25,8 +25,8 @@ permalink: /aac/
 * :busts_in_silhouette: FSA, Earnings quality analysis of Sunbeam, 8 am
 
 ### November 25, Sunday
-* :clipboard: MR Final exam case submission
-
+* :clipboard: MR Final exam case submission on LMS
+* :clipboard: FSA exam
 
 ## Legend
 
