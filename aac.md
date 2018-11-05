@@ -11,31 +11,20 @@ permalink: /aac/
 
 ----
 
+### November 10, Saturday
+* :busts_in_silhouette: FSA, Assessing earnings quality of Nuware Inc. UV case , 8 am
+* :school: FSA Day 1
 
+### November 11, Sunday
+* :busts_in_silhouette: FSA, Accounting fraud at WorldCom, 8 am
+* :school: FSA Day 1
 
-
-
-
-
-
-
-
-
-
-### TBD
+### November 11, Sunday
 * :bust_in_silhouette: MR, Ford case, 8 am
-  * No cap on number of pages. Font needs to be 11pt and 1.5 spaced.
-Reports need be submitted in PDF form. Please submit excel worksheets as well. The excel sheet needs be cleanly formatted and documented. 
+  * No upper limit on pages. Font need be 11pt and 1.5 spaced. Reports need be submitted in PDF form. Please submit excel worksheets as well. The excel sheet needs be cleanly formatted and documented. 
 
-### October 27, Saturday
-* :school: MR Day 1
-
-### October 28, Sunday
-* :busts_in_silhouette: MR 1st group assignment 8 am
-* :school: MR Day 2
-
-### November 4, Sunday
-* :busts_in_silhouette: MR 2nd group assignment
+### November 18, Sunday
+* :busts_in_silhouette: FSA, Earnings quality analysis of Sunbeam, 8 am
 
 ### November 25, Sunday
 * :clipboard: MR Final exam case submission
