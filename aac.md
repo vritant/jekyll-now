@@ -16,10 +16,11 @@ permalink: /aac/
 * :school: FSA Day 1
 
 ### November 11, Sunday
-* :bust_in_silhouette: MR, Ford case, 8 am
-  * No upper limit on pages. Font need be 11pt and 1.5 spaced. Reports need be submitted in PDF form. Please submit excel worksheets as well. The excel sheet needs be cleanly formatted and documented. 
+worksheets as well. The excel sheet needs be cleanly formatted and documented. 
 * :busts_in_silhouette: FSA, Accounting fraud at WorldCom, 8 am
 * :school: FSA Day 2
+* :bust_in_silhouette: MR, Ford case, before midnight
+  * No upper limit on pages. Font need be 11pt and 1.5 spaced. Reports need be submitted in PDF form. Please submit excel 
 
 ### November 18, Sunday
 * :busts_in_silhouette: FSA, Earnings quality analysis of Sunbeam, 8 am
