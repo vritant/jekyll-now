@@ -11,11 +11,8 @@ permalink: /aac/
 
 ----
 
-### December 1, Saturday
-* :school: Negotiation Analysis
-
-### December 2, Sunday
-* :school: Negotiation Analysis
+### December 18, 11 pm, Tuesday
+* :clipboard: Negotiation Analysis final exam submission
 
 ## Legend
 
