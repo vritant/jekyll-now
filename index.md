@@ -20,5 +20,5 @@ I'm a Software Engineer who loves to cook, home brew wine & farm hydroponically!
 ### Contact me
 
  * [adarshvritant@gmail.com](mailto:adarshvritant@gmail.com)
- * +91 897818514 
+ * +91 8978618514 
  * +1 910VRITANT
