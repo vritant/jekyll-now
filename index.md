@@ -6,7 +6,7 @@ categories: asd
 ### About
 
 I'm a Software Engineer who loves to cook, home brew wine & farm hydroponically!
- * I am a Rajasthani by lineage who was born in Karnataka. I married a Tamilian, But I am a true Hyderabadi at heart and have lived here for most of my life.
+ * I am a Rajasthani by lineage who was born in Karnataka. I married a Tamilian, am Hyderabadi at heart and have lived here for most of my life.
  * After 7 years in the USA, In September of 2016 I moved back to India
  * In July 2017 I married Rinki. checkout my wedding website [here](http://rinkiweds.vritant.com).
 
