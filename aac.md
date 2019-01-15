@@ -11,8 +11,19 @@ permalink: /aac/
 
 ----
 
-### December 18, 11 pm, Tuesday
-* :clipboard: Negotiation Analysis final exam submission
+### Jan 19, 11:55 pm, Saturday
+* :bust_in_silhouette: EPLS reflection paper
+
+### Jan 27, Sunday
+* :clipboard: EPLS Exam MCQs, based on key points of slides
+* :busts_in_silhouette: EPLS group work
+
+### Feb 10, 14:00, Sunday
+* :school: Checkin Park Avenue Rochester, Singapore.
+
+### Feb 11, Monday
+* :school: International immersion, Singapore.
+
 
 ## Legend
 
@@ -26,10 +37,6 @@ permalink: /aac/
 
 -----
 ## Immersion FAQ
-
-- **Is stay and food covered by host school during our immersion stay?**
-  
-  *Answer:* Most of the food will be taken care i.e. Breakfast, lunch and tea for the class dates.  Some of the dinners from past experience may not be provided by the host schools as they would like the students to explore the city. Stay also will be covered by the host college.
 
 - **Can I get my spouse?**
   
