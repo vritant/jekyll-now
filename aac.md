@@ -60,19 +60,19 @@ They will also go with tourist visa, and you will need to take care of it, we wo
 
 - **what is the checklist for the documents?**
 
-* Original passport including old passports
-*    Four color photos size 35x45mm with 70% face covered white background matt finish
-*    Visa form duly filled & signed
-*    Return air ticket
-*    Hotel stay in Singapore/Campus address/Stay address
-*    Personal bank statements duly stamped & signed by banker for latest 6 months
-*    Invitation letter from Singapore
-*    V39 form duly completed & signed scan copy from Singapore 
-*    Authorization form
-*    Questionnaire form duly filled
-*    ISB ID card copy
-*    Leave cum NOC letter from ISB granting leave for student to travel aboard
-*    Personal visa request letter from applicant (sample attached)
-*    If trip is sponsored by father , Required NOC cum sponsorship letter & his passport copy
-*    His Latest 6 months bank statements duly stamped & signed.
-*    If passport issued Outside Hyderabad, required local Address proof letter from ISB & Rental agreement copy 
+  * Original passport including old passports
+  *    Four color photos size 35x45mm with 70% face covered white background matt finish
+  *    Visa form duly filled & signed
+  *    Return air ticket
+  *    Hotel stay in Singapore/Campus address/Stay address
+  *    Personal bank statements duly stamped & signed by banker for latest 6 months
+  *    Invitation letter from Singapore
+  *    V39 form duly completed & signed scan copy from Singapore 
+  *    Authorization form
+  *    Questionnaire form duly filled
+  *    ISB ID card copy
+  *    Leave cum NOC letter from ISB granting leave for student to travel aboard
+  *    Personal visa request letter from applicant (sample attached)
+  *    If trip is sponsored by father , Required NOC cum sponsorship letter & his passport copy
+  *    His Latest 6 months bank statements duly stamped & signed.
+  *    If passport issued Outside Hyderabad, required local Address proof letter from ISB & Rental agreement copy 
