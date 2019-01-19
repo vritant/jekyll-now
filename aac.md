@@ -14,7 +14,7 @@ permalink: /aac/
 ### Jan 19, 11:55 pm, Saturday
 * :bust_in_silhouette: EPLS reflection paper
 
-### Jan 26,  11:55 pm, Sunday
+### Jan 26,  11:55 pm, Saturday
 * :busts_in_silhouette: EPLS group work
   * Please identify a company within your study group about which you can gather most data.
   * Examine, outline and summarise its business strategy and challenges as of 2018 .
