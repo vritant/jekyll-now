@@ -38,6 +38,3 @@ permalink: /aac/
 * :school: Campus Class
 * :microphone: Speaker Session
 
- , Required NOC cum sponsorship letter & his passport copy
-  *    His Latest 6 months bank statements duly stamped & signed.
-  *    If passport issued Outside Hyderabad, required local Address proof letter from ISB & Rental agreement copy 
