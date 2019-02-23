@@ -11,26 +11,21 @@ permalink: /aac/
 
 ----
 
-### Jan 19, 11:55 pm, Saturday
-* :bust_in_silhouette: EPLS reflection paper
+### March 10, 10:00 pm, Saturday
+* :bust_in_silhouette: individual assignments CE & GSM
 
 ### Jan 26,  11:55 pm, Saturday
 * :busts_in_silhouette: EPLS group work
-  * Please identify a company within your study group about which you can gather most data.
-  * Examine, outline and summarise its business strategy and challenges as of 2018 .
-  * Find out what people management practices and programs it currently has.
-  * Critique them from the point of view their fit with company’s business strategy and challenges and Identify what is working and what is not.
-  * Recommend areas of improvement in what people managers should do differently to lead the company more effectively in its chosen direction. 
-  * Length: Not more than  5 pages (10 sides, formatting same as individual submission - as mentioned in the course outline).
+
 
 ### Jan 27, Sunday
-* :clipboard: EPLS Exam MCQs, based on key points of slides
 
-### Feb 10, 14:00, Sunday
-* :school: Checkin Park Avenue Rochester, Singapore.
 
-### Feb 11, Monday
-* :school: International immersion, Singapore.
+
+
+
+
+
 
 
 ## Legend
