@@ -8,7 +8,7 @@ categories: asd
  * I'm a Tech Entrepreneur who loves to cook, home brew wine & farm hydroponically!
  * After 7 years in the USA, In September of 2016 I moved back to India
 
-### Résumé
+### Experience 
 
  * CTO & Digital Marketing @ [gaadiman.com](https://gaadiman.com), a car services platform.
  * Worked at [Redhat](https://www.redhat.com), on [Candlepin](https://github.com/candlepin/candlepin) and [Subscrition Manager](https://github.com/candlepin/subscription-manager) projects as a Senior Software Engineer.
