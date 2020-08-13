@@ -17,7 +17,7 @@ categories: asd
 ### Education
 
  * MBA from Indian School of Business, Hyderabad, where I recieved the Scholar of Excellence award and graduated in the Dean's list.
- * Masters in Computer Science from University of Texas at Arlington
+ * Master’s in Computer Science from the University of Texas at Arlington, where I graduated with a 4.0/4.0 CGPA
 
 ### Contact me
 
